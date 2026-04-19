@@ -103,4 +103,4 @@ Store auth token properly
 Add logout functionality
 Author
 
-Built by Luka, a young developer from Georgia who is learning full-stack development and building projects with MongoDB, Express, React, and Node.js.
+Built by Luka Ivanishvili, a young developer from Georgia who is learning full-stack development and building projects with MongoDB, Express, React, and Node.js.
